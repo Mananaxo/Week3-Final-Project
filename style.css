@@ -194,3 +194,12 @@ textarea {
   margin: 12px 0;
   padding: 8px 0;
 }
+
+a.info-box {
+  transition: all 0.3s ease;
+}
+
+a.info-box:hover {
+  box-shadow: 0 0 15px #e85303; /* green glow */
+  border: 2px solid #f58506;
+}
