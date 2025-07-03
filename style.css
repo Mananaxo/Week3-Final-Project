@@ -200,6 +200,6 @@ a.info-box {
 }
 
 a.info-box:hover {
-  box-shadow: 0 0 15px #e85303; /* green glow */
+  box-shadow: 0 0 15px #e85303; /* orange glow */
   border: 2px solid #f58506;
 }
